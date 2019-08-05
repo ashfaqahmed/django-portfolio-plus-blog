@@ -1,1 +1,2 @@
-# django-portfolio-with-blog
+# Django P+B
+
